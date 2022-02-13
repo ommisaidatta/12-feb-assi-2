@@ -1,0 +1,23 @@
+a=25
+b=10
+if a==b:
+    print("equal")
+else:
+    print("not equal")
+if a!=b:
+    print("not equal")
+else:
+    print("equal")
+if a>b:
+    print("a is big")
+else:
+    print("b is big")
+if a<b:
+    print("a is small")
+else:
+    print("b is small")
+OUTPUT
+not equal
+not equal
+a is big
+b is small
